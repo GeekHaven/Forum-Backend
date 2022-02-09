@@ -1,0 +1,16 @@
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
+.DS_Store
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+docs/_build/
+*.py[cod]
+*$py.class
