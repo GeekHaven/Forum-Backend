@@ -33,7 +33,7 @@ To set-up the development environment on your local machine, follow the below st
 - Activate the virtual environment: `env\Scripts\activate.bat`.
 - Navigate into the project directory where you have the `manage.py` file
 - Now run the server: `python manage.py runserver`.
-- Open a browser and go to: `https://localhost:8000/`. You should see a working django app showing that "the install worked successfully."
+- Open a browser and go to: `http://localhost:8000/`. You should see a working django app showing that "the install worked successfully."
 
 ### Linux/macOS
 
